@@ -1,0 +1,14 @@
+{
+  "name": "kantor-ai-office",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "server": "node server/index.mjs",
+    "cli": "node server/agent-cli.mjs"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.1.0"
+  }
+}

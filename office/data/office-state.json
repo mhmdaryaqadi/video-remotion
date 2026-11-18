@@ -1,0 +1,67 @@
+{
+  "officeStatus": "idle",
+  "activeJobId": null,
+  "updatedAt": "2026-11-18T16:45:00+07:00",
+  "agents": {
+    "manager": {
+      "id": "manager",
+      "name": "Koordinator",
+      "role": "Manager & Pembagi Job",
+      "deskZone": "lobby",
+      "status": "idle",
+      "channelId": null,
+      "currentJobId": null,
+      "taskLabel": "Siap menerima perintah bos",
+      "progressPct": 0,
+      "updatedAt": "2026-11-18T16:45:00+07:00"
+    },
+    "researcher": {
+      "id": "researcher",
+      "name": "Riset",
+      "role": "Riset Topik & Sumber Fakta",
+      "deskZone": "research",
+      "status": "idle",
+      "channelId": null,
+      "currentJobId": null,
+      "taskLabel": "Menunggu topik baru",
+      "progressPct": 0,
+      "updatedAt": "2026-11-18T16:45:00+07:00"
+    },
+    "script_audio": {
+      "id": "script_audio",
+      "name": "Naskah & VO",
+      "role": "Naskah Tutur & Edge TTS",
+      "deskZone": "script",
+      "status": "idle",
+      "channelId": null,
+      "currentJobId": null,
+      "taskLabel": "Menunggu naskah",
+      "progressPct": 0,
+      "updatedAt": "2026-11-18T16:45:00+07:00"
+    },
+    "animator": {
+      "id": "animator",
+      "name": "Animator",
+      "role": "Remotion Coder 3D/2D",
+      "deskZone": "animator",
+      "status": "idle",
+      "channelId": null,
+      "currentJobId": null,
+      "taskLabel": "Menunggu storyboard scene",
+      "progressPct": 0,
+      "updatedAt": "2026-11-18T16:45:00+07:00"
+    },
+    "qa_admin": {
+      "id": "qa_admin",
+      "name": "QA & Admin",
+      "role": "Visual QA, Render & Antrean ACC",
+      "deskZone": "qa",
+      "status": "idle",
+      "channelId": null,
+      "currentJobId": null,
+      "taskLabel": "Arsip 1 video siap upload",
+      "progressPct": 0,
+      "updatedAt": "2026-11-18T16:45:00+07:00"
+    }
+  }
+}

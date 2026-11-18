@@ -1,0 +1,54 @@
+[
+  {
+    "id": "job-pearl-harbor-001",
+    "channelId": "ch-sejarah-dunia",
+    "slug": "pearl-harbor",
+    "compositionId": "PearlHarbor",
+    "stylePack": "doc-3d",
+    "title": "Kenapa Jepang Nekat Menyerang Pearl Harbor? (7 Desember 1941)",
+    "hook": "Jam 7 pagi di Hawaii, layar radar mendadak penuh titik pesawat — tapi petugasnya nyuruh santai.",
+    "status": "approved",
+    "currentStage": "done",
+    "videoFile": "PearlHarbor.mp4",
+    "specs": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "frames": 3137,
+      "durationSec": 104.58,
+      "sizeBytes": 61892335
+    },
+    "sources": [
+      "National Park Service (NPS) — Opana Point & USS Arizona Memorial",
+      "Naval History & Heritage Command",
+      "US Department of State Archives / Franklin D. Roosevelt Library",
+      "IJN Technical & Torpedo Monograph",
+      "The National WWII Museum"
+    ],
+    "metadata": {
+      "uploadTitle": "Kenapa Jepang Nekat Serang Pearl Harbor? Ternyata Ini Alasannya!",
+      "caption": "Dikira pesawat sendiri, ternyata gelombang pertama 183 pesawat tempur Jepang. Tapi serangan ini justru punya 1 celah fatal yang bikin Amerika membalikkan arah Perang Dunia II.",
+      "hashtags": [
+        "#sejarahdunia",
+        "#pearlharbor",
+        "#perangdunia2",
+        "#edukasisejarah",
+        "#faktasejarah"
+      ]
+    },
+    "qaReport": {
+      "lintPassed": true,
+      "voChecked": true,
+      "stillSamplesChecked": true,
+      "fullVideoWatched": true,
+      "notes": "Revisi tempo VO +22-25% dengan jeda napas kontekstual; keyframe 10 scene & highlight kata oranye tersinkron penuh."
+    },
+    "bossDecision": {
+      "decision": "approved",
+      "note": "Episode perdana sebelum Kantor AI dibangun (diarsipkan ke tab Siap Upload).",
+      "decidedAt": "2026-11-18T16:45:00+07:00"
+    },
+    "createdAt": "2026-11-13T04:30:00+07:00",
+    "updatedAt": "2026-11-18T16:45:00+07:00"
+  }
+]

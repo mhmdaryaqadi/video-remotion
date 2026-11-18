@@ -1,0 +1,39 @@
+{
+  "stylePacks": [
+    {
+      "id": "doc-3d",
+      "name": "3D Cel-Shaded Diorama",
+      "description": "Gaya dokumenter 3D cel-shaded ala @ngulikin: garis ink tipis #1A1D24, diorama tematik, callout + sumber fakta, X-ray & split-screen kertas sobek.",
+      "sharedPath": "src/shared/docStyle",
+      "status": "ready",
+      "notes": "Battle-tested di episode Pearl Harbor (7 Des 1941)."
+    },
+    {
+      "id": "motion-kinetic",
+      "name": "2D Motion Graphics & Tipografi Kinetik",
+      "description": "Gaya motion graphics 2D modern anti-slop (motioncraft): tipografi nge-beat, kartu data, grafik, ruang napas lega.",
+      "sharedPath": "src/shared/motionStyle",
+      "status": "pending_poc",
+      "notes": "Menunggu build kit + 1 video POC lulus ACC bos sebelum produksi otomatis."
+    }
+  ],
+  "channels": [
+    {
+      "id": "ch-sejarah-dunia",
+      "name": "Sejarah & Fakta Dunia",
+      "niche": "Sejarah perang, peristiwa besar dunia, fakta tersembunyi & titik balik sejarah",
+      "defaultStylePack": "doc-3d",
+      "voice": "id-ID-GadisNeural",
+      "language": "id-ID",
+      "tone": "Ngobrol edukasi santai, ngalir cepat, bebas gaya kaku buku teks, 100% akurat bersumber",
+      "format": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30,
+        "targetDurationSec": "75-110"
+      },
+      "status": "active",
+      "createdAt": "2026-11-18T16:45:00+07:00"
+    }
+  ]
+}
